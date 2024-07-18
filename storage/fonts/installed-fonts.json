@@ -1,0 +1,39 @@
+{
+    "open sans": {
+        "300_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/open_sans_300_italic_2a14feff5d674289c57f5c256e43fbd4",
+        "italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/open_sans_italic_9d2ae317cd0b1f7bf2859a56953d7a71",
+        "600_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/open_sans_600_italic_fe60986b2b1850bd135c5b0dc7f52c6d",
+        "bold_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/open_sans_bold_italic_dcc95656a50b3b969e7a7f154b5af7ec",
+        "300": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/open_sans_300_39ef945f04dffafb40d0e4258ccaa41b",
+        "normal": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/open_sans_normal_3760d4dc48428d77234c57aacbf4be3d",
+        "600": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/open_sans_600_b1ce21e0a900a5106e97539d2f082999",
+        "bold": "open_sans_bold_76cc12ba903c653efae07dd0b62d46cf"
+    },
+    "poppins": {
+        "300_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/poppins_300_italic_46499ec162ba8af0ad28f576e0382331",
+        "italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/poppins_italic_46f7bdbdf77aa49af27cab32f47b02b2",
+        "500_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/poppins_500_italic_83f345f757b30738ee99ef9b96589d38",
+        "600_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/poppins_600_italic_f6e14eb28f6569b01d97dd391cd1ff56",
+        "bold_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/poppins_bold_italic_63009d4c1527e2ff6a6ee5e7d6d2e03e",
+        "300": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/poppins_300_56a45aadd6f4717d0b29e006a9a82359",
+        "normal": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/poppins_normal_76df55b5114b1626b7db1a4cd816c320",
+        "500": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/poppins_500_90dcab88268cf6d3f77b33841917903c",
+        "600": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/poppins_600_ab2317e82e93420e320bf10d17d6c75b",
+        "bold": "poppins_bold_cc53e8e8659afa950c49e4494cbb2708"
+    },
+    "raleway": {
+        "300_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/raleway_300_italic_a12b4237c52df63c4f3bd95b0dc97420",
+        "italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/raleway_italic_1b61c6cbbb0fdea44cf8597d2a046549",
+        "500_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/raleway_500_italic_dba6d33304875e2b2e60ddba7a4ed408",
+        "600_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/raleway_600_italic_6a6d0e1f7d7d1e668cf01d249799047c",
+        "bold_italic": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/raleway_bold_italic_5bc57cee1b0e9713291ff321ac3c0d91",
+        "300": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/raleway_300_990de7c04c517b18259076716c0ce05f",
+        "normal": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/raleway_normal_412bd98d636645ed31dc94bf2fce64d4",
+        "500": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/raleway_500_a7fec04d364b5424c68afeef24acaa1b",
+        "600": "C:\\Users\\welcome\\OneDrive\\Desktop\\Resume\\Resume-Builder-Laravel\\storage\\fonts\/raleway_600_b4f2dad16251f322dc9405ceb8e30d75",
+        "bold": "raleway_bold_ca172a656ebec69350dc1069fcae44b7"
+    },
+    "boxicons": {
+        "normal": "boxicons_normal_612c99b1eab3373dc8c0d0b37f645cda"
+    }
+}
